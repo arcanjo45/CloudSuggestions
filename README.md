@@ -1,3 +1,14 @@
 # CloudSuggestions
 
-CloudSuggestions is an application that on real time according with the weather informations suggests you a list of clothes you should wear before leaving home! Also it haves an users database where you can create your own account and get access to even more features like seeing the weather for the next few days. 
+CloudSuggestions helps you to choose what to wear thanks to real-time weather updates. It does so by presenting a selection of clothes to the user based on the temperature of the next few hours.
+For an easy outfit planning you can also register with us and 
+
+\begin{itemize}
+  \item get exclusive sneak peeks into next days' weather forecast.
+  \item suggestions of what cares we need to have.
+  \item Open restaurants on the area
+  \item 
+\end{itemize}
+
+
+
